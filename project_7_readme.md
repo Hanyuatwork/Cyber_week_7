@@ -13,6 +13,7 @@ Time spent: **X** hours spent in total
     - Fixed in version: 4.2.13
   - [x] GIF Walkthrough: 
   <img src='https://github.com/Hanyuatwork/Cyber_week_7/blob/master/Week7_1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  
   - [x] Steps to recreate: 
     Try to post a new page, which inclhttps://github.com/Hanyuatwork/Cyber_week_7/blob/master/Week7_1.gifude the embed code [embed src='https://youtube.com/embed/123\x3csvg onload=alert(1)\x3e'][/embed]
     
