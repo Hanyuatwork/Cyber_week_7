@@ -9,26 +9,30 @@ Time spent: **X** hours spent in total
 1. (Required) 4.0-4.7.2 - Authenticated Stored Cross-Site Scripting (XSS) in YouTube URL Embeds
   - [x] Summary: 
     - Vulnerability types:XSS
-    - Tested in version:4.0-4.7.2
+    - Tested in version:4.2
     - Fixed in version: 4.2.13
   - [x] GIF Walkthrough: 
   <img src='https://github.com/Hanyuatwork/Cyber_week_7/blob/master/Week7_1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
   
   - [x] Steps to recreate: 
-    Try to post a new page, which inclhttps://github.com/Hanyuatwork/Cyber_week_7/blob/master/Week7_1.gifude the embed code [embed src='https://youtube.com/embed/123\x3csvg onload=alert(1)\x3e'][/embed]
+    Try to post a new page, which include the embed code [embed src='https://youtube.com/embed/123\x3csvg onload=alert(1)\x3e'][/embed]
     
   - [x] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/419c8d97ce8df7d5004ee0b566bc5e095f0a6ca8)
     
-1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+1. (Required) WordPress <= 4.2.2 - Authenticated Stored Cross-Site Scripting (XSS)
+  - [x] Summary: 
+    - Vulnerability types:XSS
+    - Tested in version:4.2
+    - Fixed in version: 4.2.3
+  - [x] GIF Walkthrough: 
+   <img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  - [x] Steps to recreate: 
+  Try to post a new page, which include the code <a href="[caption code=">]</a><a title=" onclick=alert('XSS!')  ">link</a>
+  
+  - [x] Affected source code:
+    - [Link 1](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5622)
+    
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
