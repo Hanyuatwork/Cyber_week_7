@@ -33,33 +33,18 @@ Time spent: **X** hours spent in total
   - [x] Affected source code:
     - [Link 1](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5622)
     
-1. (Required) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
-1. (Optional) Vulnerability Name or ID
-  - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
-    - Fixed in version: 
-  - [ ] GIF Walkthrough: 
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
+1. (Required) WordPress <= 4.3 - Authenticated Shortcode Tags Cross-Site Scripting (XSS)
+  - [x] Summary: 
+    - Vulnerability types:xss
+    - Tested in version:4.2
+    - Fixed in version: 4.3.1
+  - [x] GIF Walkthrough: 
+   <img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  - [x] Steps to recreate: 
+    Try to post a new page, which include the code [caption width="1" caption='<a href="' ">]</a><a href=" onmouseover='alert("XSS!")' ">Click</a>
+  - [x] Affected source code:
+    - [Link 1](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5714)
+
 
 ## Assets
 
