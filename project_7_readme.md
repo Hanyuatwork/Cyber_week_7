@@ -26,7 +26,7 @@ Time spent: **X** hours spent in total
     - Tested in version:4.2
     - Fixed in version: 4.2.3
   - [x] GIF Walkthrough: 
-   <img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+   <img src='https://github.com/Hanyuatwork/Cyber_week_7/blob/master/Week7_2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
   - [x] Steps to recreate: 
   Try to post a new page, which include the code <a href="[caption code=">]</a><a title=" onclick=alert('XSS!')  ">link</a>
   
