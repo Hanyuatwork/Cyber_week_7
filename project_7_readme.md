@@ -14,9 +14,9 @@ Time spent: **X** hours spent in total
   - [X] GIF Walkthrough: 
   <img src='https://github.com/Hanyuatwork/Cyber_week_7/blob/master/Week7_1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
   - [X] Steps to recreate: 
-    Try to post a new page, which include the embed code [embed src='https://youtube.com/embed/123\x3csvg onload=alert(1)\x3e'][/embed]
+    Try to post a new page, which inclhttps://github.com/Hanyuatwork/Cyber_week_7/blob/master/Week7_1.gifude the embed code [embed src='https://youtube.com/embed/123\x3csvg onload=alert(1)\x3e'][/embed]
   - [X] Affected source code:
-    - [Link 1](https://github.com/Hanyuatwork/Cyber_week_7/blob/master/Week7_1.gif)
+    - [Link 1](https://github.com/WordPress/WordPress/commit/419c8d97ce8df7d5004ee0b566bc5e095f0a6ca8)
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
