@@ -11,11 +11,12 @@ Time spent: **X** hours spent in total
     - Vulnerability types:XSS
     - Tested in version:4.0-4.7.2
     - Fixed in version: 4.2.13
-  - [ ] GIF Walkthrough: 
-  <img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-  - [ ] Steps to recreate: 
-  - [ ] Affected source code:
-    - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+  - [X] GIF Walkthrough: 
+  <img src='https://github.com/Hanyuatwork/Cyber_week_7/blob/master/Week7_1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  - [X] Steps to recreate: 
+    Try to post a new page, which include the embed code [embed src='https://youtube.com/embed/123\x3csvg onload=alert(1)\x3e'][/embed]
+  - [X] Affected source code:
+    - [Link 1](https://github.com/Hanyuatwork/Cyber_week_7/blob/master/Week7_1.gif)
 1. (Required) Vulnerability Name or ID
   - [ ] Summary: 
     - Vulnerability types:
