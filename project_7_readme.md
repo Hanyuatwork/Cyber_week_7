@@ -12,6 +12,7 @@ Time spent: **X** hours spent in total
     - Tested in version:4.0-4.7.2
     - Fixed in version: 4.2.13
   - [ ] GIF Walkthrough: 
+  <img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
