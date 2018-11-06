@@ -15,6 +15,7 @@ Time spent: **X** hours spent in total
   <img src='https://github.com/Hanyuatwork/Cyber_week_7/blob/master/Week7_1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
   - [x] Steps to recreate: 
     Try to post a new page, which inclhttps://github.com/Hanyuatwork/Cyber_week_7/blob/master/Week7_1.gifude the embed code [embed src='https://youtube.com/embed/123\x3csvg onload=alert(1)\x3e'][/embed]
+    
   - [x] Affected source code:
     - [Link 1](https://github.com/WordPress/WordPress/commit/419c8d97ce8df7d5004ee0b566bc5e095f0a6ca8)
     
